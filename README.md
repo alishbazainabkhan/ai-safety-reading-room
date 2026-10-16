@@ -4,7 +4,6 @@
 
 **[Open the reading room →](https://aisafetyed-rjn8b2pr.manus.space)** · **[Browse every source on GitHub →](SOURCES.md)**
 
-![The AI Safety Reading Room](screenshot.png)
 
 When I switched to AI safety, I had no guide to tell me what to read or skip. It was a flat list and late nights of going through three different papers at once. After reading an ungodly amount of papers, and with the help of Manus, this site came to be, so no one has to be as lost as I was when starting in AI safety.
 
